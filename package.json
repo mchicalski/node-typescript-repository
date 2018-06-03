@@ -1,0 +1,30 @@
+{
+  "name": "tvmux-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mchicalski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "https-pem": "^2.0.0",
+    "mongoose": "^5.1.2",
+    "passport": "^0.4.0",
+    "validatorjs": "^3.14.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/cors": "^2.8.4",
+    "@types/express": "^4.11.1",
+    "@types/mongoose": "^5.0.14",
+    "@types/node": "^10.1.2",
+    "@types/passport": "^0.4.5",
+    "@types/validatorjs": "^3.7.1",
+    "typescript": "^2.8.3"
+  }
+}
